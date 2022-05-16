@@ -1,0 +1,4 @@
+classes:
+  exercises:
+    - file: "exercise1.md"
+      title: "Exercise 1"
